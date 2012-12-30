@@ -1,0 +1,10 @@
+/.bundle
+/log/*.log
+/tmp
+.tags
+.tags_sorted_by_file
+*.swp
+Vagrantfile
+.vagrant
+tags
+.DS_Store
